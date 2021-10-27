@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 0em;
+    border: 5px saddlebrown solid;
+    align-items: flex-start;
+    align-content: center;
+    flex-direction: column;
+    margin: 10px;
+    
+
+}
